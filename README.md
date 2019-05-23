@@ -50,7 +50,7 @@ For example, making a link to [ROS tutorials](http://wiki.ros.org/ROS/Tutorials)
 
 ## To exphasize about a particular command
 
-For example: Please do a ```catkin_make ```, once you have modified your code. 
+For example: Please do a ```catkin_make```, once you have modified your code. 
 
 ## To add image(s) or video(s)
 
