@@ -63,4 +63,5 @@ For example: Please do a ```catkin_make```, once you have modified your code.
 * To link a [video](https://youtu.be/-yOZEiHLuVU)
 
 ## Reference
-[Github guide.](https://guides.github.com/features/wikis/)
+[Concept guide.](https://guides.github.com/features/wikis/)
+[Syntax guide.](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
