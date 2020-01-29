@@ -6,24 +6,22 @@ It describes what the project wants to achieve and defines terminologies. Presen
 ## The System’s Architecture
 
 ### Overall Architecture
-It describes what the project wants to achieve and defines the key terminologies of this project. Presents the hardware or tools used in the project.
+It presents the overall architecture of the system with the help of a UML and it describes in simple words the overall architecture, which is designed to meet the objective of the project.
 
 ### Description of the Modules
-It describes all the modules within the architecture, i.e, (i) the inputs, (ii) the internal working, and (iii) the outputs.
+This section presents in a detailed manner (in its sub-sections) each module within the architecture.
+It describes all the modules within the architecture, i.e, (i) the prerequisites (e.g., all the hardware and software required for this module), (ii) the inputs to the module, (iii) the internal working, and (iv) the outputs of the module.
 
 ## Implementation
 
-### Prerequisites
-It describes all hardwares and softwares that are required for running the system.
-
 ### How to run the project
-It describes step by step how to download and run the project on a new computer.
+This section presents (in its sub-sections) how to run and test the modules.
 
 ## Results
-It presents the result using (images or videos) of the working system, in (real or simulation).
+This section presents (in its sub-sections) the result of each module. **Note that**: if all the modules have successfully completed their work and integrated everything together, then this section can present the overall result of the project, i.e., (i) the rqt_graph generated when the system is running, (ii) images or links to the videos of the working of the system (in real or in simulation). This can be done instead of having a sub-section dedicated to the 'results' of each module.
 
 ## Recommendations
-The Recommendations follow naturally from the conclusions. They describe: the assumptions made while building the system (and/or) the limitations of the working system. Therefore, presenting possible ideas that could overcome the limitations or assumptions. 
+The Recommendations follow naturally from the results. **Note that**: if all the modules have successfully completed their work and integrated everything together, then this section can present the overall recommendations for this project, i.e.,  (i) the assumptions made while building the system (and/or) the limitations of the working system, (ii) presenting possible ideas that could overcome the limitations or assumptions. This can be done instead of having a sub-section dedicated to the 'recommendations' for each module.
 
 ## Authors
 * FirstName LastName: email@email.com
