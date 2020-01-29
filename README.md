@@ -3,17 +3,14 @@
 ## Objective of the Project
 It describes what the project wants to achieve and defines terminologies. Presents the hardware or tools used in the project.
 
-## The System’s Architecture
-
-### Overall Architecture
+## Architecture of the System
 It presents the overall architecture of the system with the help of a UML and it describes in simple words the overall architecture, which is designed to meet the objective of the project.
 
-### Description of the Modules
+## Description of the System’s Architecture
 This section presents in a detailed manner (in its sub-sections) each module within the architecture.
 It describes all the modules within the architecture, i.e, (i) the prerequisites (e.g., all the hardware and software required for this module), (ii) the inputs to the module, (iii) the internal working, and (iv) the outputs of the module.
 
 ## Implementation
-
 This section presents (in its sub-sections) how to run and test the modules.
 
 ## Results
