@@ -14,7 +14,6 @@ It describes all the modules within the architecture, i.e, (i) the prerequisites
 
 ## Implementation
 
-### How to run the project
 This section presents (in its sub-sections) how to run and test the modules.
 
 ## Results
