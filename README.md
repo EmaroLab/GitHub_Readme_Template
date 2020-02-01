@@ -10,12 +10,12 @@ It presents the overall architecture of the system with the help of a UML and it
 This section presents in a detailed manner (in its sub-sections) each module within the architecture.
 It describes details about the the modules within the architecture, i.e, **(i)** names of the key people who developed the module, **(ii)** mention the files (packages/nodes) found in the repository that are associated to the module, **(iii)** the prerequisites (e.g., all the hardware and software required) for the module, **(iv)** the inputs to the module, **(v)** the internal working of the module, and **(vi)** the outputs of the module.
 
-### Module <name of the module>
+### Module < name of the module >
 	.
 	.
 	.
 	
-### Module <name of the module>
+### Module < name of the module >
 	.
 	.
 	.
@@ -23,19 +23,19 @@ It describes details about the the modules within the architecture, i.e, **(i)**
 ## Installation and Testing
 This section presents (in its sub-sections) how to install/run and test the modules. **Note that:** If all the modules have successfully completed their work and integrated everything together, then this section can present the overall **Installation and Testing** procedure for the the "whole" system, instead of having a sub-section dedicated for each module
 
-### Module <name of the module>
+### Module < name of the module >
 	.
 	.
 	.
 	
-### Module <name of the module>
+### Module < name of the module >
 	.
 	.
 	.
 	
 ## Report
 
-This is the link to the report: <put the link here>
+This is the link to the report: < put the link here >
 
 ## Authors
 * FirstName LastName: email@email.com
