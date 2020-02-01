@@ -8,18 +8,27 @@ It presents the overall architecture of the system with the help of a UML and it
 
 ## Description of the System’s Architecture
 This section presents in a detailed manner (in its sub-sections) each module within the architecture.
-It describes all the modules within the architecture, i.e, (i) the prerequisites (e.g., all the hardware and software required for this module), (ii) the inputs to the module, (iii) the internal working, and (iv) the outputs of the module.
+It describes details about the the modules within the architecture, i.e, **(i)** names of the key people who developed the module, **(ii)** mention the files (packages/nodes) found in the repository that are associated to the module, **(iii)** the prerequisites (e.g., all the hardware and software required) for the module, **(iv)** the inputs to the module, **(v)** the internal working of the module, and **(vi)** the outputs of the module.
 
-## Implementation
-This section presents (in its sub-sections) how to run and test the modules.
+### Module <name of the module>
+	.
+	.
+	.
+	
+### Module <name of the module>
+	.
+	.
+	.
+	
+## Installation and Testing
+This section presents (in its sub-sections) how to install/run and test the modules.
 
-## Results
-This section presents (in its sub-sections) the result of each module. **Note that**: if all the modules have successfully completed their work and integrated everything together, then this section can present the overall result of the project, i.e., (i) the rqt_graph generated when the system is running, (ii) images or links to the videos of the working of the system (in real or in simulation). This can be done instead of having a sub-section dedicated to the 'results' of each module.
+## Report
 
-## Recommendations
-The Recommendations follow naturally from the results. **Note that**: if all the modules have successfully completed their work and integrated everything together, then this section can present the overall recommendations for this project, i.e.,  (i) the assumptions made while building the system (and/or) the limitations of the working system, (ii) presenting possible ideas that could overcome the limitations or assumptions. This can be done instead of having a sub-section dedicated to the 'recommendations' for each module.
+This is the link to the report: <put the link here>
 
 ## Authors
+* FirstName LastName: email@email.com
 * FirstName LastName: email@email.com
 * FirstName LastName: email@email.com
 * FirstName LastName: email@email.com
