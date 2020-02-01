@@ -21,7 +21,7 @@ It describes details about the the modules within the architecture, i.e, **(i)**
 	.
 	
 ## Installation and Testing
-This section presents (in its sub-sections) how to install/run and test the modules. **Note that:** If all the modules have successfully completed their work and integrated everything together, then this section can present the overall **Installation and Testing** procedure for the the "whole" system, instead of having a sub-section dedicated for each module
+This section presents (in its sub-sections) how to install/run and test the modules. **Note that:** If all the modules have successfully completed their work and integrated everything together, then this section can present the overall **Installation and Testing** procedure for the the "whole" system, instead of having a sub-section dedicated for each module.
 
 ### Module < name of the module >
 	.
